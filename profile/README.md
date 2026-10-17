@@ -17,7 +17,7 @@
 
 ---
 
-### ⚜ The Company
+### ⚜ The Team
 
 | Post | Musketeer |
 |---|---|
