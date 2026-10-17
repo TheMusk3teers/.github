@@ -19,11 +19,11 @@
 
 ### ⚜ The Company
 
-| Post | Musketeer | Blade |
-|---|---|---|
-| d'Artagnan · Captain | [@H0ussamCl4p](https://github.com/H0ussamCl4p) | Web, cloud, AppSec |
-| Musketeer | [@chaimae098](https://github.com/chaimae098) | To be claimed |
-| Musketeer | [@fatimaezzahralag-ship-it](https://github.com/fatimaezzahralag-ship-it) | To be claimed |
+| Post | Musketeer |
+|---|---|
+| d'Artagnan · Captain | [@H0ussamCl4p](https://github.com/H0ussamCl4p) |
+| Musketeer | [@chaimae098](https://github.com/chaimae098) |
+| Musketeer | [@fatimaezzahralag-ship-it](https://github.com/fatimaezzahralag-ship-it) |
 
 ### ⚜ Campaigns
 
