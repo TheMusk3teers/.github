@@ -21,10 +21,11 @@
 
 | Post | Musketeer |
 |---|---|
-| d'Artagnan · Captain | [@H0ussamCl4p](https://github.com/H0ussamCl4p) |
+| Musketeer | [@H0ussamCl4p](https://github.com/H0ussamCl4p) |
 | Musketeer | [@chaimae098](https://github.com/chaimae098) |
 | Musketeer | [@fatimaezzahralag-ship-it](https://github.com/fatimaezzahralag-ship-it) |
 | Musketeer | [@imanebouzbiba](https://github.com/imanebouzbiba) |
+| Musketeer | Lyna ([CTFtime](https://ctftime.org/user/276633)) |
 
 ### ⚜ Campaigns
 
